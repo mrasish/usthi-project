@@ -1,1 +1,1 @@
-# usthi-project
+# USTHI-PROJECT
